@@ -10,3 +10,5 @@ class star{
         }
     }
 }
+//fardin shaikh
+//star
